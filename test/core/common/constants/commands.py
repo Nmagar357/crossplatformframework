@@ -1,0 +1,1 @@
+ADB_CHECK_WIFI_ON = 'adb shell settings get global wifi_on'

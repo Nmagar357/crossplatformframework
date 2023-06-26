@@ -1,0 +1,104 @@
+{
+  "User": "akshayjadhao",
+  "Android": {
+    "Devices": [
+      {
+        "Pixel 4 XL": {
+          "deviceName": "Pixel 4 XL",
+          "platformVersion": "13",
+          "udid": "99251FFBA002CQ"
+        },
+        "Pixel_4XL_Android_09": {
+          "deviceName": "Pixel_4XL_Android_09",
+          "platformVersion": "9",
+          "udid": "emulator-5554"
+        },
+        "Pixel_4XL_Android_10": {
+          "deviceName": "Pixel_4XL_Android_10",
+          "platformVersion": "10",
+          "udid": "emulator-5554"
+        },
+        "Pixel_4XL_Android_12": {
+          "deviceName": "Pixel_4XL_Android_12",
+          "platformVersion": "12",
+          "udid": "emulator-5554"
+        },
+        "Pixel_5_Android_12": {
+          "deviceName": "Pixel_5_Android_12",
+          "platformVersion": "12",
+          "udid": "emulator-5554"
+        }
+      }
+    ],
+    "Paths": [
+      {
+        "Newsreader": {
+          "app": "D://reader-universal-alpha.apk"
+        }
+      }
+    ]
+  },
+  "iOS": {
+    "Devices": [
+      {
+        "iPhone 11": {
+          "deviceName": "iPhone 11",
+          "platformVersion": "16.0.2",
+          "udid": "00008101-00116C462246001E"
+        },
+        "iPhone 11 Pro (Simulator-1)": {
+          "deviceName": "iPhone 11 Pro (Simulator-1)",
+          "platformVersion": "16.1",
+          "udid": "78335D92-3C0E-4E75-B4DD-11C98A79CA4C"
+        },
+        "iPhone 11 Pro Max (Simulator-2)": {
+          "deviceName": "iPhone 11 Pro Max (Simulator-2)",
+          "platformVersion": "16.1",
+          "udid": "CE8D277A-B732-49A6-B4A5-CBBCEE091D95"
+        },
+        "iPhone 12 Pro (Simulator-3)": {
+          "deviceName": "iPhone 12 Pro (Simulator-3)",
+          "platformVersion": "16.1",
+          "udid": "20C01FF5-23D9-4FA8-9782-4D2703930F00"
+        },
+        "iPhone 14 Pro Max (Simulator-4)": {
+          "deviceName": "iPhone 14 Pro Max (Simulator-4)",
+          "platformVersion": "16.1",
+          "udid": "6F0082C8-E9D6-426C-B085-D3F2BE7E0391"
+        }
+      }
+    ],
+    "Paths": [
+      {
+        "Newsreader": {
+          "app": "/Users/akshayjadhao/Library/Developer/Xcode/DerivedData/Newsreader-dnqmdyvbsemzimchsnzixuvbfgtk/Build/Products/Debug-iphoneos/NYTimes.app"
+        },
+        "wda":{
+          "wda:derivedDataPath": "/Users/akshayjadhao/Library/Developer/Xcode/DerivedData/WebDriverAgent-aghlrsejdreqngftgvcqwnjgrbou"
+        }
+      }
+    ]
+  },
+  "Windows": {
+    "Devices": [
+      {
+        "Dell Latitude 3420": {
+          "deviceName": "Akshay-Jadhao",
+          "platformName": "Windows 10 Pro"
+        }
+      }
+    ]
+  },
+  "Mac": {
+    "Devices":[
+      {
+        "Mac mini": {
+          "deviceName": "Mac mini",
+          "platformName": "12.6"
+        }
+      }
+    ]
+  }
+}
+
+

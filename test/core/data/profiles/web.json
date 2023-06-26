@@ -1,0 +1,25 @@
+{
+  "Core": {
+    "acceptInsecureCerts": true,
+    "timeouts": 60,
+    "pageLoadStrategy": "none"
+
+  },
+  "Platform": [
+    {
+      "Windows":{
+          "browserName": "chrome",
+          "browserVersion": "109.0.5414.120",
+          "platformName": "windows"
+      },
+      "Mac": {
+          "browserName": "chrome",
+          "browserVersion": "109.0.5414.87",
+          "platformName": "mac"
+      }
+    }
+  ],
+  "Application": {
+    "url": "https://www.nytimes.com"
+  }
+}

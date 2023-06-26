@@ -1,0 +1,54 @@
+{
+  "User": "olimjonibragimov",
+  "Android": {
+    "Devices": [
+      {
+        "Samsung Galaxy Z4": {
+          "deviceName": "Samsung Galaxy Z4",
+          "platformVersion": "13",
+          "udid": "R5CT820F44X"
+        },
+        "Pixel 6 API 31": {
+          "deviceName": "Pixel 6 API 31",
+          "platformVersion": "12",
+          "udid": "emulator-5554"
+        },
+        "Samsung S21 5G": {
+          "deviceName": "Samsung S21 5G",
+          "platformVersion": "12",
+          "udid": "R5CR21BLDAP"
+        }
+      }
+    ],
+    "Paths": [
+      {
+        "Newsreader": {
+          "app": "/Users/208672/Desktop/Builds/reader-universal-alpha.apk"
+        }
+      }
+    ]
+  },
+  "iOS": {
+    "Devices": [
+      {
+        "iPhone X": {
+          "deviceName": "iPhone 14 Pro",
+          "platformVersion": "16.2",
+          "udid": "2BEFA181-430B-44CE-8D95-D019F1911148"
+        }
+      }
+    ],
+    "Paths": [
+      {
+        "Newsreader": {
+          "app": "/Users/208672/Library/Developer/Xcode/DerivedData/Newsreader-gayuvwcouexnyhgftytnabmgrief/Build/Products/Debug-iphonesimulator/NYTimes.app"
+        },
+        "wda":{
+          "wda:derivedDataPath": "/Users/208672/Library/Developer/Xcode/DerivedData/WebDriverAgent-bdfvxaocmedflqgvbnyjpzsnlcry"
+        }
+      }
+    ]
+  }
+}
+
+

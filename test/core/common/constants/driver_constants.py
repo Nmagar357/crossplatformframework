@@ -1,0 +1,64 @@
+# IMPORTANT CONSTANTS
+IMPLICIT_WAIT = 20
+WEB_WAIT = 10.0
+WEB_TIMEOUT_SCRIPT = 20.0
+WEB_TIMEOUT_PAGE_LOAD = 30.0
+
+# Appium Driver Constants
+
+APP = "app"
+APPIUM = "appium"
+APP_ACTIVITY = "appActivity"
+APP_PACKAGE = "appPackage"
+APP_WAIT_ACTIVITY = "appWaitActivity"
+APP_WAIT_DURATION = "appWaitDuration"
+APP_WAIT_FOR_LAUNCH = "appWaitForLaunch"
+APP_WAIT_PACKAGE = "appWaitPackage"
+AUTOMATION_NAME = "automationName"
+AUTO_GRANT_PERMISSIONS = "appium:autoGrantPermissions"
+BUNDLE_ID = "bundleId"
+CORE_DRIVER = "CoreDriver"
+DERIVED_DATA_PATH = "derivedDataPath"
+DEVICE_NAME = "deviceName"
+LOCALHOST_URL_EXT = "/wd/hub"
+LOCALHOST_URL_PRE = "http://localhost"
+MOBILE_CAPABILITY_TYPE_APP = "MobileCapabilityType.APP"
+NO_RESET = "appium:noReset"
+PLATFORM_NAME = "platformName"
+PLATFORM_VERSION = "platformVersion"
+RESET_KEYBOARD = "resetKeyboard"
+UDID = "udid"
+UNICODE_KEYBOARD = "unicodeKeyboard"
+UPDATED_WDA_BUNDLE_ID = "updatedWDABundleId"
+USE_NEW_WDA = "useNewWDA"
+WDA = "wda"
+XCODE_ORG_ID = "xcodeOrgId"
+XCODE_SIGNING_ID = "xcodeSigningId"
+
+TEST = 'test'
+VERBOSE = 'verbose'
+INFO = 'info'
+DEBUG = 'debug'
+ERROR = 'error'
+ALERT = 'alert'
+WARN = 'warn'
+LOG_LEVEL = 'LOG_LEVEL'
+
+LANDSCAPE = "LANDSCAPE"
+PORTRAIT = "PORTRAIT"
+
+IGNORE_DEPRECATION_WARN = "IGNORE DEPRECATION WARNING"
+IGNORE = "ignore"
+
+# Selenium Driver Constants
+WEB_DRIVER = "WebDriver"
+
+DATA_REPORT_PATH = 'DATA_REPORT_PATH'
+RESULTS_NAME = 'RESULTS_NAME'
+RESULTS_DIR = 'RESULTS_DIR'
+REPORT_DIR_NAME = 'REPORT_DIR_NAME'
+ARCHIVE_PATH = 'ARCHIVE_PATH'
+CONSOLE_PATH = 'CONSOLE_PATH'
+RESULT_XML_PATH = 'RESULT_XML_PATH'
+CLEANUP_ARCHIVE = 'CLEANUP_ARCHIVE'
+EXPIRATION_DATE = 'EXPIRATION_DATE'

@@ -1,0 +1,42 @@
+{
+  "User": "nitinmagar",
+  "Android": {
+    "Devices": [
+      {
+        "Pixel 3": {
+          "deviceName": "Pixel 3",
+          "platformVersion": "12",
+          "udid": "8B7X153ZR"
+        },
+        "Samsung Galaxy Tab A7": {
+          "deviceName": "Galaxy Tab A7",
+          "platformVersion": "11",
+          "udid": "R9WN90G3ZBJ"
+        },
+        "Pixel_4_Android_9": {
+          "deviceName": "Pixel_4_Android_9",
+          "platformVersion": "9",
+          "udid": "emulator-5554"
+        },
+        "Pixel_Android_11": {
+          "deviceName": "Pixel_Android_11",
+          "platformVersion": "11",
+          "udid": "emulator-5554"
+        },
+        "Nexus_5_Android_12": {
+          "deviceName": "Nexus_5_Android_11",
+          "platformVersion": "11",
+          "udid": "emulator-5554"
+        }
+      }
+    ],
+    "Paths": [
+      {
+        "Newsreader": {
+          "app": "C:/Users/nitin.magar.ININDCRWS/Downloads/reader-universal-alpha.apk"
+        }
+      }
+    ]
+  }
+
+}

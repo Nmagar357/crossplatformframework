@@ -1,0 +1,74 @@
+{
+  "User": "neilnorton",
+  "Android": {
+    "Devices": [
+      {
+        "Pixel 5": {
+          "deviceName": "Pixel 5",
+          "platformVersion": "13",
+          "udid": "15271FDD400446"
+        },
+        "Pixel6_Android12": {
+          "deviceName": "Pixel6_Android12",
+          "platformVersion": "12",
+          "udid": "emulator-5554"
+        },
+        "Pixel5_Android11": {
+          "deviceName": "Pixel5_Android11",
+          "platformVersion": "11",
+          "udid": "emulator-5554"
+        },
+        "Pixel4_Android10": {
+          "deviceName": "Pixel4_Android10",
+          "platformVersion": "10",
+          "udid": "emulator-5554"
+        }
+      }
+    ],
+    "Paths": [
+      {
+        "Newsreader": {
+          "app": "/Users/neilnorton/Desktop/Builds/reader-universal-alpha.apk"
+        }
+      }
+    ]
+  },
+  "iOS": {
+    "Devices": [
+      {
+        "iPhone 14 Pro": {
+          "deviceName": "iPhone 14 Pro",
+          "platformVersion": "16",
+          "udid": "4F31A3D0-D4C5-48D6-BC74-2BE8B29AF6DA"
+        },
+        "iPhone 14 Pro Max": {
+          "deviceName": "iPhone 14 Pro Max",
+          "platformVersion": "16.0",
+          "udid": "63E5552F-BD61-4FF4-B268-A054A1471078"
+        },
+        "iPhone 14 Plus": {
+          "deviceName": "iPhone 14 Plus",
+          "platformVersion": "16.0",
+          "udid": "FA853210-6E69-40E0-825C-3A2FC2541F9C"
+        },
+        "iPhone SE (3rd generation)": {
+          "deviceName": "iPhone SE (3rd generation)",
+          "platformVersion": "15.2.1",
+          "udid": "A7E26541-8A7E-498D-B44B-143878103A01"
+        }
+      }
+    ],
+    "Paths": [
+      {
+        "Newsreader": {
+          "app": "/Users/neilnorton/Library/Developer/Xcode/DerivedData/Newsreader-exulbberurxkwxgjftpxoigttlpz/Build/Products/Debug-iphonesimulator/NYTimes.app"
+        },
+        "wda":{
+          "wda:derivedDataPath": "/Users/neilnorton/Library/Developer/Xcode/DerivedData/WebDriverAgent-ciegwgvxzxdrqthilmrmczmqvrgu"
+        }
+      }
+    ]
+  }
+}
+
+

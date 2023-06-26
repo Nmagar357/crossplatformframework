@@ -1,0 +1,49 @@
+{
+  "Core": {
+    "fullReset": false,
+    "noReset": false,
+    "autoLaunch": false,
+    "newCommandTimeout": 60
+  },
+  "Platform": [
+    {
+      "Android": {
+        "platformName": "Android",
+        "automationName": "UiAutomator2",
+        "udid": "auto",
+        "unicodeKeyboard": false,
+        "resetKeyboard": false,
+        "appWaitForLaunch": true,
+        "appWaitDuration": 50000,
+        "autoGrantPermissions": true
+      },
+      "iOS": {
+        "platformName": "iOS",
+        "automationName": "XCUITest",
+        "autoAcceptAlerts": true,
+        "udid": "auto",
+        "appium:xcodeOrgId": "FL458598BU",
+        "appium:xcodeSigningId": "iPhone Developer",
+        "appium:updatedWDABundleId": "com.test.webdriveragent",
+        "appium:useNewWDA": true
+      }
+    }
+  ],
+  "Application": [
+    {
+      "Android": [{
+        "Newsreader": {
+          "appPackage": "com.nytimes.android",
+          "appActivity": "com.nytimes.android.MainActivity",
+          "appWaitPackage": "com.nytimes.android",
+          "appWaitActivity": "com.nytimes.android.*"
+        }
+      }],
+      "iOS": [{
+        "Newsreader": {
+          "bundleId": "com.nytimes.NYTimes.debug"
+        }
+      }]
+    }
+  ]
+}
